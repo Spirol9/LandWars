@@ -1,0 +1,12 @@
+name: LandWars
+version: 0.1
+main: org.Spirol9.LW.Main
+description: Turf Wars based Mineplex plugin.
+authour: Spirol9
+commands:
+  Setorien:
+    description: Plugin By Spirol9
+  Setbound:
+    description: Plugin By Spirol9
+  LWS:
+    description: Plugin By Spirol9
